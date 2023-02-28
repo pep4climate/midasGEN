@@ -1,0 +1,224 @@
+****************************************************************************************************                    
+**          MIDAS/Gen V9.3.0 - Modeling, Integrated Design & Analysis Software                    **                    
+**                         GENERAL STRUCTURE DESIGN SYSTEM FOR WINDOWS                            **                    
+****************************************************************************************************                    
+                                                                                                                        
+                                   ....xxxxxxxx*********xxxxxxxx......                                                  
+                               xXXXXXX***''               ```***XXXXXXXXXXx.                                            
+                           XXXXXXX                                   ``*XXXXXXXx.                                       
+         XXXXXXXXXX      XXXXXXX XX                                        `*XXXXXX.                                    
+         XXXXXXXXXXX    XXXXXX XXXX                                           `*XXXXX                                   
+         XXXXXXXXXXXX  XXXXXX XXXXX  XXXXX  XXXXXXXXXXx        XXXXX      .XXXX.`XXXXX                                  
+         XXXXXXXXXXXX::XXXXX XXXXXX  XXXXX  XXXXXXXXXXXX      XXXXXXX    :XXXXXX: XXXXX                                 
+         XXXXXX XXXXX XXXXX: XXXXXX  XXXXX  XXXXX   xXXXX    :XXXXXXX:   XXXX:     XXXXX                                
+         XXXXXX  XXXX XXXXX  XXXXXX  XXXXX  XXXXX    XXXXX  :XXXX:XXXX   XXXXXXXXX:                                     
+         XXXXXX  XXX XXXXX:  XXXXXX  XXXXX  XXXXX    :XXXX  XXXXX XXXXX   :XXXXXXXXXX                                   
+         XXXXXX  :XX XXXXX   XXXXXX  XXXXX  XXXXX    :XXXX :XXXX: :XXXX:    `:XXXXXXXX:                                 
+         XXXXXX   XX XXXXX   XXXXXX  XXXXX  XXXXX    XXXXX XXXXX   XXXXX XXXX     XXXXX                                 
+         XXXXXX   XX XXXXX   XXXXXX  XXXXX  XXXXX   xXXXX XXXXX:   :XXXXX:XXXX   .XXXX                                  
+         XXXXXX   :XXXXXXX   XXXXXX  XXXXX  XXXXXXXXXXXX :XXXX:     XXXXX XXXXXXXXXXX:                                  
+         XXXXXX    XXXXXXX   XXXXXX  XXXXX  XXXXXXXXXXx  XXXXX      :XXXXX `XXXXXXX'     /GEN                           
+                                                                                                                        
+         ----------------- PC WINDOWS XP/VISTA/7/8/10  VERSION. V9.3.0 ------------------                               
+                                                                                                                        
+                  Copyright ¨Ï SINCE 1989 MIDAS Information Technology Co., Ltd.                                        
+                           ALL RIGHTS RESERVED MIDAS IT Co., Ltd.                                                       
+                                                                                                                        
+****************************************************************************************************                    
+  
+  
+ -----------------------------------------S T A R T I N G       S O L U T I O N
+
+ MULTI-FRONTAL SOLVER
+ AVAILABLE MEMORY =   11.2 GBYTES
+
+ INTERNAL DATA REGENERATION ( ENTRY REGEN_MODEL )
+
+**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE FEB/27/2023  TIME 20:50:35
+**  Modeling, Integrated Design & Analysis Software              PC WINDOWS XP/VISTA/7/8/10 VERSION 
+====================================================================================================
+  
+  
+ N U M B E R I N G   E Q U A T I O N
+ ===================================
+
+
+ INFORMATION FOR EQUATION NUMBER
+ -------------------------------
+
+  SERIAL   NODE          EQUATION NUMBERS FOR EACH DEGREE OF FREEDOM
+    NO.     NO.         X       Y        Z        XX       YY       ZZ
+ -------  -------   -------- -------- -------- -------- -------- --------
+      1        1           0        1        0        2        0        3
+      2        2           4        5        6        7        8        9
+      3        3          10       11       12       13       14       15
+      4        4          16       17       18       19       20       21
+      5        5          22       23       24       25       26       27
+      6        6          28       29       30       31       32       33
+      7        7          34       35       36       37       38       39
+      8        8          40       41       42       43       44       45
+      9        9          46       47       48       49       50       51
+     10       10          52       53       54       55       56       57
+     11       11          58       59       60       61       62       63
+     12       12          64       65       66       67       68       69
+     13       13          70       71       72       73       74       75
+     14       14          76       77       78       79       80       81
+     15       15          82       83       84       85       86       87
+     16       16          88       89       90       91       92       93
+     17       17          94       95       96       97       98       99
+     18       18         100      101      102      103      104      105
+     19       19         106      107      108      109      110      111
+     20       20         112      113      114      115      116      117
+     21       21         118      119      120      121      122      123
+     22       22         124      125      126      127      128      129
+     23       23         130      131      132      133      134      135
+     24       24         136      137      138      139      140      141
+     25       25         142      143      144      145      146      147
+     26       26           0      148        0      149        0      150
+
+
+ EQUATION STATUS
+ ---------------
+
+ TOTAL NUMBER OF VALID DOFS IN MODEL ..........:     150
+ NUMBER OF EQUATIONS IN A BLOCK ...............:     150
+ NUMBER OF BLOCKS .............................:       1
+ NUMBER OF INTERNAL LOADCASES .................:       5
+
+**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE FEB/27/2023  TIME 20:50:35
+**  Modeling, Integrated Design & Analysis Software              PC WINDOWS XP/VISTA/7/8/10 VERSION 
+====================================================================================================
+  
+  
+
+
+ S E T U P   E Q U A T I O N   P R O F I L E
+ ===========================================
+
+
+ THE TOTAL WEIGHT OF MODEL
+ -------------------------
+
+ TOTAL WEIGHT ...........:  0.00000E+00   KN  
+
+
+ THE CENTER OF GRAVITY OF FINITE ELEMENT MODEL 
+ ---------------------------------------------
+
+ X-COORDINATE OF C.G ....:  0.00000E+00   M   
+ Y-COORDINATE OF C.G ....:  0.00000E+00   M   
+ Z-COORDINATE OF C.G ....:  0.00000E+00   M   
+ WARNING : NODE NO.     14  RX  DOF MAY BE SINGULAR.
+ WARNING : EQUATION NO.        79
+ WARNING : NODE NO.     14  DY  DOF MAY BE SINGULAR.
+ WARNING : EQUATION NO.        77
+ WARNING : DISPLACEMENT DY AT NODE NO.      1 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.      1 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.      1 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.      2 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.      2 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.      2 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.      3 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.      3 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.      3 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.      4 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.      4 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.      4 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.      5 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.      5 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.      5 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.      6 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.      6 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.      6 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.      7 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.      7 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.      7 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.      8 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.      8 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.      8 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.      9 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.      9 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.      9 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     10 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     10 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     10 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     11 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     11 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     11 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     12 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     12 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     12 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     13 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     13 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     13 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     14 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     14 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     15 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     15 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     15 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     16 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     16 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     16 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     17 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     17 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     17 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     18 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     18 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     18 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     19 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     19 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     19 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     20 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     20 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     20 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     21 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     21 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     21 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     22 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     22 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     22 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     23 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     23 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     23 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     24 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     24 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     24 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     25 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     25 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     25 IS ABNORMAL.
+ WARNING : DISPLACEMENT DY AT NODE NO.     26 IS ABNORMAL.
+ WARNING : DISPLACEMENT RX AT NODE NO.     26 IS ABNORMAL.
+ WARNING : DISPLACEMENT RZ AT NODE NO.     26 IS ABNORMAL.
+
+ STATIC ANALYSIS TIME LOG ( IN SECOND )
+ --------------------------------------
+ MULTI-FRONTAL SOLUTION .....................:     0.08
+ DISPLACEMENT OUTPUT ........................:     0.05
+ STRESS OUTPUT ..............................:     0.09
+ TOTAL SOLUTION TIME (SUM OF THE ABOVE) .....:     0.21
+
+
+**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE FEB/27/2023  TIME 20:50:36
+**  Modeling, Integrated Design & Analysis Software              PC WINDOWS XP/VISTA/7/8/10 VERSION 
+====================================================================================================
+  
+  
+
+
+ =========================================================
+ ** O V E R A L L   T I M E   L O G   I N   S E C O N D **
+ =========================================================
+
+  - INPUT DATA READING AND GENERATION ..........:     0.01
+  - FORM ELEMENT STIFFNESS MATRICES ............:     0.01
+  - FORM GLOBAL LOAD VECTOR ....................:     0.00
+  - FORM TOTAL STIFFNESS MATRICES ..............:     0.01
+  - P-DELTA ANALYSIS ...........................:     0.00
+  - STATIC ANALYSIS ............................:     0.21
+  - MOVING LOAD ANALYSIS .......................:     0.00
+  - SETTLEMENT ANALYSIS ........................:     0.00
+  - EIGENVALUE EXTRACTION ......................:     0.00
+  - RESPONSE SPECTRUM ANALYSIS .................:     0.00
+  - TIME HISTORY ANALYSIS ......................:     0.00
+  - PRINT DYNAMIC INFORMATION OUTPUT ...........:     0.16
+  - TOTAL ELAPSED TIME .........................:     0.40
