@@ -1,0 +1,23 @@
+
+               +============================================================+
+               |  MIDAS(Modeling, Integrated Design & Analysis Software)    |
+               |  midas Gen - Load Combinations                             |
+               |                                             (c)SINCE 1989  |
+               +============================================================+
+               |  MIDAS Information Technology Co.,Ltd.         (MIDAS IT)  |
+               |  Gen 2023                                                  |
+               +============================================================+
+
+-----------------------------
+DESIGN TYPE : General
+-----------------------------
+
+LIST OF LOAD COMBINATIONS
+=============================================================================================
+NUM  NAME          ACTIVE             TYPE
+               LOADCASE(FACTOR) +             LOADCASE(FACTOR) +             LOADCASE(FACTOR)
+=============================================================================================
+1    vertical_dead_loads  Active             ABS       
+   spandrel_wall_unifor( 1.000) + voussoir_self_weight( 1.000) +         parapet_load( 1.000)
+ +   backfill_trapezoid( 1.000) + spandrel_wall_trapez( 1.000) +     backfill_uniform( 1.000)
+---------------------------------------------------------------------------------------------

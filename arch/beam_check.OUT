@@ -34,7 +34,7 @@
 
  INTERNAL DATA REGENERATION ( ENTRY REGEN_MODEL )
 
-**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 5/2023  TIME 12:52:42
+**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 5/2023  TIME 12:27:45
 **  Modeling, Integrated Design & Analysis Software              PC WINDOWS XP/VISTA/7/8/10 VERSION 
 ====================================================================================================
   
@@ -49,43 +49,19 @@
   SERIAL   NODE          EQUATION NUMBERS FOR EACH DEGREE OF FREEDOM
     NO.     NO.         X       Y        Z        XX       YY       ZZ
  -------  -------   -------- -------- -------- -------- -------- --------
-      1        1           0        0        0        0        0        0
-      2        2           1        0        2        0        3        0
-      3        3           4        0        5        0        6        0
-      4        4           7        0        8        0        9        0
-      5        5          10        0       11        0       12        0
-      6        6          13        0       14        0       15        0
-      7        7          16        0       17        0       18        0
-      8        8          19        0       20        0       21        0
-      9        9          22        0       23        0       24        0
-     10       10          25        0       26        0       27        0
-     11       11          28        0       29        0       30        0
-     12       12          31        0       32        0       33        0
-     13       13          34        0       35        0       36        0
-     14       14          37        0       38        0       39        0
-     15       15          40        0       41        0       42        0
-     16       16          43        0       44        0       45        0
-     17       17          46        0       47        0       48        0
-     18       18          49        0       50        0       51        0
-     19       19          52        0       53        0       54        0
-     20       20          55        0       56        0       57        0
-     21       21          58        0       59        0       60        0
-     22       22          61        0       62        0       63        0
-     23       23          64        0       65        0       66        0
-     24       24          67        0       68        0       69        0
-     25       25          70        0       71        0       72        0
-     26       26           0        0        0        0        0        0
+      1        1           0        0        0        0        1        0
+      2        2           2        0        0        0        3        0
 
 
  EQUATION STATUS
  ---------------
 
- TOTAL NUMBER OF VALID DOFS IN MODEL ..........:      72
- NUMBER OF EQUATIONS IN A BLOCK ...............:      72
+ TOTAL NUMBER OF VALID DOFS IN MODEL ..........:       3
+ NUMBER OF EQUATIONS IN A BLOCK ...............:       3
  NUMBER OF BLOCKS .............................:       1
  NUMBER OF INTERNAL LOADCASES .................:       5
 
-**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 5/2023  TIME 12:52:42
+**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 5/2023  TIME 12:27:45
 **  Modeling, Integrated Design & Analysis Software              PC WINDOWS XP/VISTA/7/8/10 VERSION 
 ====================================================================================================
   
@@ -99,25 +75,25 @@
  THE TOTAL WEIGHT OF MODEL
  -------------------------
 
- TOTAL WEIGHT ...........:  2.85708E+02   KN  
+ TOTAL WEIGHT ...........:  2.14280E+02   KN  
 
 
  THE CENTER OF GRAVITY OF FINITE ELEMENT MODEL 
  ---------------------------------------------
 
- X-COORDINATE OF C.G ....:  1.12548E+01   M   
- Y-COORDINATE OF C.G ....:  3.31766E+00   M   
- Z-COORDINATE OF C.G ....:  5.92180E+00   M   
+ X-COORDINATE OF C.G ....:  4.87000E+00   M   
+ Y-COORDINATE OF C.G ....:  0.00000E+00   M   
+ Z-COORDINATE OF C.G ....:  0.00000E+00   M   
 
  STATIC ANALYSIS TIME LOG ( IN SECOND )
  --------------------------------------
- MULTI-FRONTAL SOLUTION .....................:     0.23
- DISPLACEMENT OUTPUT ........................:     0.05
- STRESS OUTPUT ..............................:     0.14
- TOTAL SOLUTION TIME (SUM OF THE ABOVE) .....:     0.42
+ MULTI-FRONTAL SOLUTION .....................:     0.25
+ DISPLACEMENT OUTPUT ........................:     0.03
+ STRESS OUTPUT ..............................:     0.08
+ TOTAL SOLUTION TIME (SUM OF THE ABOVE) .....:     0.35
 
 
-**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 5/2023  TIME 12:52:42
+**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 5/2023  TIME 12:27:45
 **  Modeling, Integrated Design & Analysis Software              PC WINDOWS XP/VISTA/7/8/10 VERSION 
 ====================================================================================================
   
@@ -129,15 +105,15 @@
  =========================================================
 
   - INPUT DATA READING AND GENERATION ..........:     0.01
-  - FORM ELEMENT STIFFNESS MATRICES ............:     0.02
-  - FORM GLOBAL LOAD VECTOR ....................:     0.01
+  - FORM ELEMENT STIFFNESS MATRICES ............:     0.01
+  - FORM GLOBAL LOAD VECTOR ....................:     0.00
   - FORM TOTAL STIFFNESS MATRICES ..............:     0.01
   - P-DELTA ANALYSIS ...........................:     0.00
-  - STATIC ANALYSIS ............................:     0.42
+  - STATIC ANALYSIS ............................:     0.35
   - MOVING LOAD ANALYSIS .......................:     0.00
   - SETTLEMENT ANALYSIS ........................:     0.00
   - EIGENVALUE EXTRACTION ......................:     0.00
   - RESPONSE SPECTRUM ANALYSIS .................:     0.00
   - TIME HISTORY ANALYSIS ......................:     0.00
-  - PRINT DYNAMIC INFORMATION OUTPUT ...........:     0.26
-  - TOTAL ELAPSED TIME .........................:     0.71
+  - PRINT DYNAMIC INFORMATION OUTPUT ...........:     0.15
+  - TOTAL ELAPSED TIME .........................:     0.52

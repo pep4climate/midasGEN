@@ -30,11 +30,11 @@
  -----------------------------------------S T A R T I N G       S O L U T I O N
 
  MULTI-FRONTAL SOLVER
- AVAILABLE MEMORY =   11.2 GBYTES
+ AVAILABLE MEMORY =   11.1 GBYTES
 
  INTERNAL DATA REGENERATION ( ENTRY REGEN_MODEL )
 
-**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 5/2023  TIME 12:52:42
+**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 9/2023  TIME 15:58:10
 **  Modeling, Integrated Design & Analysis Software              PC WINDOWS XP/VISTA/7/8/10 VERSION 
 ====================================================================================================
   
@@ -83,9 +83,9 @@
  TOTAL NUMBER OF VALID DOFS IN MODEL ..........:      72
  NUMBER OF EQUATIONS IN A BLOCK ...............:      72
  NUMBER OF BLOCKS .............................:       1
- NUMBER OF INTERNAL LOADCASES .................:       5
+ NUMBER OF INTERNAL LOADCASES .................:       6
 
-**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 5/2023  TIME 12:52:42
+**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 9/2023  TIME 15:58:10
 **  Modeling, Integrated Design & Analysis Software              PC WINDOWS XP/VISTA/7/8/10 VERSION 
 ====================================================================================================
   
@@ -99,7 +99,7 @@
  THE TOTAL WEIGHT OF MODEL
  -------------------------
 
- TOTAL WEIGHT ...........:  2.85708E+02   KN  
+ TOTAL WEIGHT ...........:  1.42854E+02   KN  
 
 
  THE CENTER OF GRAVITY OF FINITE ELEMENT MODEL 
@@ -111,13 +111,13 @@
 
  STATIC ANALYSIS TIME LOG ( IN SECOND )
  --------------------------------------
- MULTI-FRONTAL SOLUTION .....................:     0.23
- DISPLACEMENT OUTPUT ........................:     0.05
- STRESS OUTPUT ..............................:     0.14
- TOTAL SOLUTION TIME (SUM OF THE ABOVE) .....:     0.42
+ MULTI-FRONTAL SOLUTION .....................:     0.71
+ DISPLACEMENT OUTPUT ........................:     0.09
+ STRESS OUTPUT ..............................:     0.06
+ TOTAL SOLUTION TIME (SUM OF THE ABOVE) .....:     0.86
 
 
-**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 5/2023  TIME 12:52:42
+**  MIDAS/Gen WINDOWS VERSION 9.3.0                                  DATE MAR/ 9/2023  TIME 15:58:11
 **  Modeling, Integrated Design & Analysis Software              PC WINDOWS XP/VISTA/7/8/10 VERSION 
 ====================================================================================================
   
@@ -128,16 +128,16 @@
  ** O V E R A L L   T I M E   L O G   I N   S E C O N D **
  =========================================================
 
-  - INPUT DATA READING AND GENERATION ..........:     0.01
-  - FORM ELEMENT STIFFNESS MATRICES ............:     0.02
+  - INPUT DATA READING AND GENERATION ..........:     0.02
+  - FORM ELEMENT STIFFNESS MATRICES ............:     0.01
   - FORM GLOBAL LOAD VECTOR ....................:     0.01
-  - FORM TOTAL STIFFNESS MATRICES ..............:     0.01
+  - FORM TOTAL STIFFNESS MATRICES ..............:     0.02
   - P-DELTA ANALYSIS ...........................:     0.00
-  - STATIC ANALYSIS ............................:     0.42
+  - STATIC ANALYSIS ............................:     0.86
   - MOVING LOAD ANALYSIS .......................:     0.00
   - SETTLEMENT ANALYSIS ........................:     0.00
   - EIGENVALUE EXTRACTION ......................:     0.00
   - RESPONSE SPECTRUM ANALYSIS .................:     0.00
   - TIME HISTORY ANALYSIS ......................:     0.00
-  - PRINT DYNAMIC INFORMATION OUTPUT ...........:     0.26
-  - TOTAL ELAPSED TIME .........................:     0.71
+  - PRINT DYNAMIC INFORMATION OUTPUT ...........:     0.18
+  - TOTAL ELAPSED TIME .........................:     1.10
